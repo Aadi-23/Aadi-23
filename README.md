@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadi
 - 👀 I’m interested in Coding and learning new stuffs about technology and systems.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently know C++ and looking further to learn more in future.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, My Email- kumaradarsh24988@gmail.com
 
